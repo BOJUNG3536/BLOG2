@@ -1,0 +1,4 @@
+{
+  "name": "YouTube 영상 검색 대시보드",
+  "description": "YouTube Data API를 활용하여 영상을 검색하고 상세 분석 데이터를 조회할 수 있는 대시보드입니다."
+}
